@@ -1,0 +1,70 @@
+Exemplo: Estamos analisando o projeto da construção de um imóvel
+	- Planta baixa (arquiteto)
+	- Projeto (engenheiro)
+	- Planejamento (definir as estratégias a partir do projeto)
+
+Todos eles seguem a lógica e determinam as instruções afim de chegar no seu objetivo.
+
+Técnica Linear:
+	- Modelo tradicional
+	- Não tem vínculo
+		○ Estrutura hierárquica
+		○ Programação de computadores
+
+Modelos de desenvolvimento e resolução.
+
+É uma técnica muito associada à matemática.
+
+	- Execução sequenciada
+	- Recursos limitados
+	- Única dimensão
+
+Ordenação de elementos por uma única propriedade.
+
+Exemplo: 
+	- Acordar
+	- Fazer o café
+	- Café da manhã
+Execução sequenciada com dependência entre si.
+
+-----
+
+Técnica estruturada:
+
+Organização, disposição e ordem dos elementos essenciais que compõe um corpo (concreto ou abstrato). Estrutura.
+
+Processamento de dados:
+Objetivo:
+	- Escrita
+		○ Programas
+	- Entendimento
+	- Validação
+	- Manutenção
+		○ Facilitar
+
+Exemplo:
+	- Acordar
+	- Fazer o café OU fazer o suco (opções estruturadas, na técnica linear, não teríamos esta escolha)
+	- Café da manhã
+
+-----
+
+Técnica modular: 
+
+Módulo 1	Módulo 2
+Módulo 3	Módulo 4
+
+Modelo padrão:
+Dados de entrada --> Processo de transformação --> Dados de saída
+
+Metas:
+	- Simplificação
+	- Decompor o problema
+	- Verificação do módulo
+
+Módulo acordar	Módulo preparar bebida (café, suco)	Módulo tomar café da manhã
+Cada um com suas regras definidas
+Para acordar: desligar o despertador, tirar o tapa olho, levantar da cama, se vestir, ...
+Para preparar bebida: [café: esquentar a água, passar o café, servir na xícara],
+			        [suco: espremer a fruta, adicionar água, adicionar açúcar, servir no copo].
+Para tomar o café da manhã: ler o jornal, beber a bebida preparada.

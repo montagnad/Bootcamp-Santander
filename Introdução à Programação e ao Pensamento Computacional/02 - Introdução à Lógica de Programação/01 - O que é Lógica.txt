@@ -1,0 +1,41 @@
+Primeiros passos para começar a programar
+
+Esta aula foca em apresentar o conceito de lógica aplicada à programação, como um processo de pensamento atrelado ao conceito de algoritmos e resolução de problemas.
+
+A lógica vem para solucionar algum problema.
+
+Problema é uma questão que foge a uma determinada regra, ou melhor, é um desvio de percurso, o qual impede de atingir um objetivo com eficiência e eficácia.
+
+Problema:
+	- Questão
+	- Numerosas soluções
+	- Proposta duvidosa
+	- Objeto de discussão
+
+-----
+
+Lógica é a parte da filosofia que trata das formas do pensamento em geral (dedução, indução, hipótese, inferência, etc.) e das operações intelectuais que visam a determinação do que é verdadeiro ou não.
+
+Lógica:
+	- Forma como desencadeiam acontecimentos
+	- Forma de raciocínio
+	- Organização coesa
+	- Ordenação que segue convenções
+
+Lógica (mais focado na computação) é a organização e planejamento das instruções, assertivas em um algoritmo, afim de viabilizar a implantação de um programa.
+
+Exemplo: Café da manhã
+Objetivo: tomar café..
+Planejamento e instruções para produzir o café e consumi-lo.
+
+Seres humanos podem prever comportamentos, computadores não.
+Eles precisam instruções detalhadas.
+Para isso utilizamos a lógica na programação.
+
+Por que entender a lógica em programação?
+
+"Everybody in this country should learn
+how to program a computer because it
+teaches you how to think."
+
+Steve Jobs
