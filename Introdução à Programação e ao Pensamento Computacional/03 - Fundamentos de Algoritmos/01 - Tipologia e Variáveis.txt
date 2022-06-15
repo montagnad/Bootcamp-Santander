@@ -1,0 +1,50 @@
+Nesta aula serão apresentados os conceitos básicos para o correto entendimento de algoritmos.
+Esses conceitos como variáveis, tipos de dados, instruções, condições, entre outros temas relacionados.
+
+Qual a função do computador?
+
+Informação é composta de Dados e Instruções.
+
+Esses dados são tratados e processados.
+
+Tipos:
+
+Numérico: Inteiros (0, 1, -58, ...), Reais (5.95, 9.54, -0.555, 6, ...)
+Caractere: Tudo aquilo que não queremos representar como número ("Programação", "Fone: (25) 99865-5741", "Rua Alameda", ...)
+Lógico: Verdadeiro (1, V) e Falso (0, F), booleano.
+
+Variável: Mutável, possui variações, incerto, incostante, instável.
+Ela vai receber um valor, não se sabe qual, mas se sabe o tipo.
+
+Pode receber qualquer um dos valores de um determinado conjunto de valores.
+a - b = d	a + b = c
+
+Regras:
+	- Atribuição de um ou mais caracteres
+	- Primeira letra - não número
+	- Sem espaços em branco
+	- Vetado a utilização de palavras reservadas (da linguagem de programação)
+	- Caracteres e números
+
+Exemplos de nomes de variáveis:
+	- x2
+	- nome_usuario
+	- telefone
+	- z4
+	- user12
+
+Papéis de uma variável:
+	- Ação - Modificação de estado
+	- Controle - Vigiada, controle
+
+Constante:
+	- Inalterável
+	- O que não muda
+	- Invariável
+
+Exemplos de constantes:
+	- Pi = 3,141592653589793 
+	- Phi = 1,618033988749895 
+	- resulta = recebido * 0.10
+
+Instruções são operações de dados.

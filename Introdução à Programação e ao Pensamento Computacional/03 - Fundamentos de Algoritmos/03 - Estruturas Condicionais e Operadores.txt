@@ -1,0 +1,86 @@
+E se quisermos verificar se o aluno foi aprovado ou não?
+
+Condição: Estado de uma pessoa ou coisa.
+Condicional: Que expressa uma condição ou suposição; contém ou implica uma suposição ou hipótese.
+
+Estrutura condicional:
+
+
+
+
+
+Operadores relacionais:
+
+
+
+	Ø Exemplo condicional simples:
+
+Se (<condição>) então
+	<instruções para condição verdadeira>
+Fim_se
+
+
+
+	Ø Exemplo condicional composta:
+
+Se (<condição>) então
+	<instruções para condição verdadeira>
+Senão
+	<instruções para condição falsa>
+Fim_se
+
+
+
+	Ø Exemplo condicional encadeado:
+
+Se (<condição 1>) então
+	<instruções para condição verdadeira>
+Senão
+	Se (<condição 2>) então
+		<instruções para condição 2 verdadeira e condição 1 falsa>
+	Senão
+		<instruções para condições 1 e 2 falsas>
+	Fim_se
+Fim_se
+
+-----
+
+Operadores lógicos:
+
+
+
+Quando utilizar?
+	- Verificação de V ou F
+	- Substituição - encadeamento de condições
+
+
+
+AND = condição verdadeira - todas devem ser satisfeitas
+
+Exemplo: Curso de inglês
+
+Se (gramatica .e. conversação) então
+	escreva "aprovado"
+Senão
+	escreva "reprovado
+Fim_se
+
+-----
+
+OR = Condição verdadeira - apenas uma das condições deve ser verdadeira
+
+Exemplo:
+
+Se (choveu .ou. grama_molhada) então
+	escreva "plantas regadas"
+Senão
+	escreva "regar plantas"
+Fim_se
+
+-----
+
+NOT = operador de negação - inversão do resultado lógico
+
+Exemplo:
+
+Not B --> tudo que não está em B

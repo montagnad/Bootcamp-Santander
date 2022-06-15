@@ -1,0 +1,42 @@
+Um vetor é caracterizado por uma variável dimensionada com tamanho pré-fixado.
+	- Container
+	- Matriz unidimensional
+
+Matriz é uma tabela organizada em linhas e colunas no formato m x n, onde m representa o número de linhas (horizontal) e n o número de colunas (vertical).
+	- Container
+
+
+
+Exemplo: média escolar
+
+Aluno1_nota1 = 10
+Aluno1_nota2 = 5
+
+Aluno2_nota1 = 7
+Aluno2_nota2 = 8
+
+OU
+
+Notas_aluno1 = [10, 5]
+Notas_aluno2 = [7, 8]
+
+OU
+
+Notas_alunos = [10, 5, 7, 8] // a cada duas posições, um novo aluno
+
+-----
+
+Definição:
+
+Vetor conjunto [1...8]<inteiro>
+Vetor[15]
+Vetor = []
+
+
+
+Matriz_alunos[6][6]
+
+Escreva "ID_aluno"
+Escreva matriz_alunos[0][0]
+Escreva "média"
+Escreva matriz_alunos[0][6]

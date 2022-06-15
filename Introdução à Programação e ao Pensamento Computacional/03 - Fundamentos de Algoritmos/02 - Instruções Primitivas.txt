@@ -1,0 +1,36 @@
+Cálculo matemático:
+
+Variáveis
+Constantes 
+= Operadores - Unário e Binário
+
+
+
+area = pi * raio²
+
+Instruções são linguagem de palavras-chave (vocabulário) de uma determinada programação, que tem por finalidade comandar um computador que irá tratar os dados.
+
+Linguagens de programação:
+
+Notação --> Operações
+
+Posso usar linguagens (sintaxes) distintas para um mesmo objeto.
+	- Janela 
+	- Window
+	- Ventana
+
+Exemplo: Média escolar
+
+início programa:
+
+	nota1 = 5 // variável
+	nota2 = 8
+	resultado = 0
+	
+	resultado = (nota1 + nota2) / 2 // constante
+	
+	escreva resultado
+	
+fim programa // estrutura sequencial
+
+Saída: 6.5

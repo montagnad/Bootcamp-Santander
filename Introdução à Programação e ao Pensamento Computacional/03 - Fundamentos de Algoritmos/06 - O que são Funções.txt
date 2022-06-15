@@ -1,0 +1,41 @@
+Funções:
+	- Subalgoritmo
+	- Subprograma
+	- Função
+	- Bloco
+	- Método
+	- Sub-rotina
+
+Similar ao conceito de função matemática.
+
+As funções ou sub-rotinas são blocos de instruções que realizam tarefas específicas.
+Decomposição do algoritmo.
+
+Modularização do problema.
+	- Modularização do programa
+	- Código mais claro e conciso
+	- Reutilização de instruções
+
+São blocos de instruções (código), identificados por nomes e parâmetros. Assinatura.
+	- Definição
+	- Nome
+	- Invocação
+	- Variável local (são destruídas ao encerrar a função)
+
+Dados --> Função --> Resultado
+
+Exemplo: Determinar a média escolar através de uma função
+Que ganho teremos ao fazer essa modificação?
+Reutilização de código.
+
+Função mediaescolar(nota1, nota2)
+	Resultado = 0
+	Resultado = (nota1 + nota2) / 2
+
+	Retorne resultado
+Fim_função
+_____
+
+Aluno1 = mediaescolar(aluno1_nota1, aluno1_nota2)
+Aluno2 = mediaescolar(aluno2_nota1, aluno2_nota2)
+Aluno3 = mediaescolar(aluno3_nota1, aluno3_nota2)

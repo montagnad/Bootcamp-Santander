@@ -1,0 +1,66 @@
+Repetir um trecho de um programa.
+	- Laços
+	- Controle de fluxo
+	- Malhas de repetição
+	- Repetição
+	- Loop
+
+Condições de parada para que não se crie um loop infinito
+	- Número de repetições pré-fixada
+	- Condição a ser satisfeita
+
+"Mas não é só repetir o código?"
+	- Redução de linhas
+	- Compreensão facilitada
+	- Redução de erro
+
+Estruturas de repetição:
+	- Enquanto ... Faça
+	- Repita ... Até
+	- Para ... De ... Até ... Faça
+
+Enquanto ... Faça:
+Exemplo:
+Enquanto (grama alta) faça (cortar grama)
+
+Até que toda grama esteja cortada
+
+Exemplo:
+Grama = falso
+
+enquanto (grama == falso) faça
+
+	<instrução para cortar a grama>
+	<atualiza grama>
+Fim_enquanto
+
+-----
+
+Repita ... Até:
+Exemplo:
+Procurar artigo --> virar página --> analisar conteúdo
+
+-----
+
+Para ... De ... Até ...:
+Exemplo:
+somatório  = 0
+
+para  inicio = 1 até 10 faça
+	somatório =  somatório + inicio
+	escreva somatório
+Fim_para
+
+-----
+
+Consigo mesclar as estruturas uma dentro da outra?
+
+Enquanto (<condição1>)
+
+	Se (<condição2>)
+		<instruções>
+	Fim_se
+	
+	...
+
+Fim_enquanto

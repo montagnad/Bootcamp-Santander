@@ -1,0 +1,14 @@
+Consiste na inserção e recebimento de dados do mundo real por meio de ação de alguma interface, seja teclado, mouse, arquivos entre outros.
+
+Consiste na impressão dos dados do mundo abstrato, digital, por meio de ação de alguma interface.
+Os formatos podem variar desde simples arquivos binários até complexas querys de banco de dados.
+
+Existem dois tipos de saída dentro de um programa (algoritmo):
+	- Saída programada - condicional ou incondicional
+	- Saída por interrupção - definida pelos periféricos
+
+Casos:
+	- Bem sucedido
+	- Erro de sintaxe ou outro
+	- Erros de programação
+	- Problemas com a interface
