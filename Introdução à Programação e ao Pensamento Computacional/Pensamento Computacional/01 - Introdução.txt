@@ -1,0 +1,63 @@
+Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador
+
+Não se restringe ao computador.
+
+Ele é sistemático e eficiente na formulação e resolução de problemas.
+Humanos e máquinas devem ser capazes de resolver.
+
+Não é uma disciplina acadêmica e sim uma habilidade generalista.
+
+Funciona na Matemática, Leitura, Escrita entre outros, como por exemplo na coerência de um texto etc.
+
+Está baseado em quatro pilares:
+	- Decomposição
+	- Reconhecimento de padrão
+	- Abstração
+	- Design de algoritmos
+
+Decomposição: Dividir um problema grande em problemas menores e ir tratando um por vez, para no final juntar todos e ter uma solução coesa.
+
+Exemplo 1: Bolo --> decompor em três (massa, recheio e cobertura)
+Posso realizar as três partes na ordem que eu quiser, mas na hora de montar, tenho uma ordem a seguir para que ele faça sentido (não posso botar a cobertura embaixo e o bolo em cima kkkkk)
+
+Exemplo 2: Quebra-cabeça --> decompor em pequenos pedaços, como por exemplo, se o quebra-cabeça tem elementos distintos em sua imagem (digamos um cachorrinho, uma casinha), formar esse cachorrinho com as peças em um lugar, formar a casinha em outro ponto e, quando possível, agregar um ao outro, formando enfim o quebra-cabeça completo.
+
+-----
+
+Reconhecimento de padrões: identificar similaridades e tendências (e também diferenças) dentro de um contexto ou contextos distintos.
+
+Exemplo 1: O distanciamento entre as bolinhas segue um padrão
+
+
+
+Exemplo 2: Padrões comportamentais, seja de pessoas ou de coisas, por exemplo, a bolsa de valores sobe, a maioria das pessoas compra ações, a bolsa de valores desvaloriza, a maioria das pessoas vende ações.
+
+-----
+
+Abstração:  Extrapolar o conceito de algum problema particular/específico para uma forma generalista.
+
+Exemplo 1: Uma mesa específica tem um tampo retangular de 3m por 1,5m, com quatro pernas de 1,2m. 
+Generalizando: uma mesa tem tampo (redondo, quadrado, retangular) e pernas (quantidades e tamanho variados)
+
+-----
+
+Design de algoritmos: Realiza a automatização da solução de problemas.
+Definimos neste pilar o passo a passo da solução do problema.
+
+Exemplo 1: Dado uma entrada, eu tenho uma sequência de operações que vão ser realizadas com essa entrada e, ao final, terei uma saída.
+
+-----
+
+É um processo contínuo, o qual precisamos testar, analisar e refinar sempre, aperfeiçoando a solução encontrada (para otimizar, por exemplo, recursos, tempo.
+
+Perguntar-se sempre: "Eu posso melhorar alguma coisa?"; "Existe uma solução melhor?"
+
+O pensamento computacional nos permite usar o melhor dos dois mundos: habilidades humanas e recursos computacionais.
+
+Nem sempre é necessário utilizar todos os pilares para a solução de um problema, pode ser que apenas com decomposição e algoritmos já dê pra resolver.
+
+Competências: "Bônus" adquiridos utilizando o pensamento computacional
+	- Pensamento sistemático
+	- Colaboração dentro da equipe
+	- Criatividade e design
+	- Facilitador 

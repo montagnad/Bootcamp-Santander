@@ -1,0 +1,77 @@
+Computador:
+	- Energia ilimitada
+	- Trabalhador
+	- Eficiência
+	- Rapidez
+Porém, não opera sozinho
+
+Precisa de instruções detalhadas para trabalhar --> Programas
+
+O computador recebe, manipula, processa e armazena os dados.
+
+Os programas são constituídos por instruções com o passo a passo do que o computador precisa executar.
+
+O que precisa ser feito + Qual a ordem de execução --> Instruções
+
+O Algoritmo precisa ser compreendido pelo humano e pela máquina.
+
+Desenvolvimento de programa:
+	- Análise - estudo e definição dos dados de entrada e saída.
+	- Algoritmo - descreve o problema por meio de ferramentas narrativas, fluxograma ou pseudocódigo.
+	- Codificação - o algoritmo é codificado de acordo com a linguagem de programação escolhida.
+
+Algoritmos:
+	- Sequencia de passos com objetivo definido
+	- Execução de tarefas específicas
+	- Conjunto de operações que resultam em uma sucessão finita de ações
+
+Exemplo 1: Preparar um sanduíche
+	- Pegar o pão
+	- Passar os condimentos
+	- Botar queijo ou presunto
+	- Botar o pão na chapa ou não
+	- Montar o sanduíche
+
+Outros exemplos:
+	- Trocar uma lâmpada
+	- Trajeto ao trabalho
+	- Fazer uma receita de bolo
+
+Instruções executadas passo a passo para concluir uma tarefa.
+
+Como construir um algoritmo:
+	- Compreensão do problema - pontos mais importantes
+	- Definição dos dados de entrada - dados fornecidos e cenário
+	- Definir processamento - cálculos e restrições
+	- Definir dados de saída - após processamento
+	- Utilizar um método de construção - construção e refinamento do algoritmo
+	- Teste e diagnóstico
+
+Narrativa: utilização da linguagem natural sem conceitos novos. Diversas interpretações possíveis, pode ser ambígua.
+
+Exemplo: Multiplicação de dois números
+	Ø Passo 1: recebe os valores
+	Ø Passo 2: Multiplica
+	Ø Passo 3: Imprime resultado
+
+Exemplo: Média de alunos:
+	Ø Passo 1: recebe os valores
+	Ø Passo 2: calcula a média dos valores
+	Ø Passo 3: imprime resultado
+	Ø Passo 4: regra de aprovação
+	Ø Passo 5: imprime resultado
+-----
+
+Fluxograma: Utilização de símbolos pré-definidos, simples entendimento. Requer conhecimento prévio da estrutura e símbolos.
+
+Exemplo: Multiplicação de dois números
+
+
+
+Exemplo: Média de alunos:
+
+
+
+-----
+
+Pseudocódigo: Portugol. Regras definidas. Passos a serem seguidos.

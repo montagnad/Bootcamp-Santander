@@ -1,0 +1,36 @@
+O problema consiste em determinar o número escolhido por uma pessoa dentro de um intervalo.
+Perguntas com respostas de sim e não.
+
+Exemplo de solução:
+	Ø O número é 1?
+	Ø O número é 2?
+	Ø O número é 3?
+	Ø ...
+É uma solução possível, mas é ineficiente e desperdiça tempo.
+
+-----
+
+Exemplo de solução:
+	Ø O número é maior que 50?
+		○ Não.
+	Ø O número é menor que 20?
+		○ Sim.
+	Ø ...
+Número de tentativas muito menor!
+
+-----
+
+Exemplo de solução: Busca binária
+
+	1. Ordenar o vetor
+	2. Módulo de L/2 (L = tamanho do vetor - length)
+	3. Acessar estrutura
+	4. Comparar valores
+	5. Repita até encontrar o número
+	6. Imprima "Busca bem sucedida"
+Mais eficiente que busca por varredura
+
+Como aprimorar a habilidade de tornar esse tipo de pensamento mais internalizado?
+Explicar suas decisões e seu processo de desenvolvimento para chegar na solução.
+Debate sobre oportunidades de melhoria nesta solução que otimizam suas decisões.
+

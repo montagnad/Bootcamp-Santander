@@ -1,0 +1,51 @@
+"If you can't solve a problem,
+Then there is an easier problem
+That you csan solve: find it."
+
+George Polya - Professor e matemático
+
+Primeiro passo da resolução de problemas dentro do conceito de pensamento computacional.
+
+--> Dado um problema complexo, devemos quebrá-lo em problemas menores. Portanto, problemas mais fáceis e gerenciáveis.
+Estratégia: 
+Processo de quebrar e determinar partes menores e gerenciáveis --> Análise
+
+Estudar, explorar, realizar exame detalhado, decompor em elementos constituíntes.
+
+Estratégia: 
+Combinar os elementos recompondo o problema original --> Síntese
+
+Processo de reconstrução, fundir os elementos de maneira coerente, reunir elementos distintos em um único elemento.
+Estratégia: 
+Ordem de execução de tarefas menores --> Sequencial OU paralela.
+
+Sequencial: dependência entre tarefas, executadas em fila.
+Paralela: tarefas podem ser executadas ao mesmo tempo para ganhar em eficiência e tempo.
+
+Não basta aplicar, tem que desenvolver a decomposição por nós mesmos, treinar maneiras distintas de decompor o mesmo problema para adquirir habilidade.
+
+Como decompor?
+	- Identificar ou coletar os dados
+	- Agregar os dados
+	- Funcionalidade
+
+Exemplo 1: Cozinhar
+	- Identificar os ingredientes
+	- Determinar as etapas (sequencial ou paralelas)
+	- Executar cada etapa
+	- Agregar os ingredientes para finalizar (recompor com coerência)
+
+Exemplo 2: Criar um app
+	- Finalidade
+	- Interface
+	- Funcionalidades
+	- Pré-requisitos
+
+Exemplo 3: Artigo
+	- O que será abordado?
+	- Estrutura
+	- Conteúdo de cada tópico
+	- Textos de conexão
+
+Exemplo 4: Movimentos de um avatar
+

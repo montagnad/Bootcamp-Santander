@@ -1,0 +1,42 @@
+Suponha que há uma pessoa perdida na floresta. Como usar o pensamento computacional para maximizar as chances de sobrevivência?
+	- Identificar mecanismos
+	- Recursos comuns
+	- Detalhes mais importantes
+
+Sobrevivência: (decomposição do problema original)
+	Ø Água
+		○ Chuva
+		○ Nascente
+			§ Fogo (para ferver a água)
+	Ø Comida
+		○ Coletar
+		○ Caçar
+			§ Lança
+	Ø Abrigo
+		○ Localização
+			§ Mapa (criar por abstração, observando a floresta de um ponto elevado)
+		○ Proteção
+			§ Fogo
+			§ Lança
+		○ Quente e seco
+			§ Fogo
+
+Foco nos detalhes principais, não precisa de detalhamento.
+
+Utilizamos a decomposição (para separar o problema em pedaços menores), reconhecimento de padrões (fogo é o principal recurso necessário), e abstração (mapa).
+
+Próximo passo é organizar as instruções para cozinhar algo para comer.
+
+Preparando a comida: (algoritmo)
+	1. Pegar o peixe
+	2. Colocar água na panela
+	3. Ferver a água
+	4. Limpar o peixe
+	5. Fazer o cozido
+	6. Assar o filé
+
+Em modelo de "fluxograma", porém sem os símbolos específicos:
+
+
+
+Utilizaríamos o mesmo processo para encontrar água, construir abrigo e maximizar as chances de resgate.

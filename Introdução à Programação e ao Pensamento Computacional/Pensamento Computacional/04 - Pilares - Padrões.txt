@@ -1,0 +1,50 @@
+Reconhecimento de padrões:
+	- Modelo base
+	- Estrutura invariante
+	- Repetição
+
+Temos um modelo de cadeira.
+Ela tem pés, ela tem encosto, pode ter braços...
+Tamanho do encosto e do assento, materiais, quantidade de pés podem variar, mas existem características que a identificam como uma cadeira.
+
+Similaridades e Diferenças
+
+Exemplo: Compressão de dados por reconhecimento de padrões
+
+
+
+Exemplo: frutas e doces.
+
+Seres vivos reconhecem padrões de maneira intuitiva, pois fazem isso desde que nascem
+
+
+
+Porque determinar padrões?
+	- Generalizar, com objetivo de obter resolução de problemas diferentes.
+
+Como determinar padrões?
+	- Categorias e classes
+	- Pelo ser humano: 
+		○ Grau de similaridade
+		○ Grupos conhecidos x objeto desconhecido
+	- Pelo computador:
+		○ Comparação
+		○ Representação de atributos
+		○ Aprendizado - conceito associado ao objeto
+		○ Armazenar dados para consultas posteriores
+		○ Regras de decisão
+
+Em resumo:
+
+Extração de características e classificação de dados --> Abordagem
+
+Diferentes métodos e diferentes aplicações.
+
+Aplicações:
+	- Classificação de dados
+	- Reconhecimento de imagem
+	- Reconhecimento de fala
+	- Análise de cenas
+	- Classificação de documentos
+
+Machine learning, redes neurais, inteligência artificial e ciência de dados.
